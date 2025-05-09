@@ -1,0 +1,39 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "2025-04-24 10:01:10",
+      "data": {
+        "message": "Genesis Block",
+        "user_id": "202400130071"
+      },
+      "previous_hash": "0",
+      "nonce": 0,
+      "hash": "6511749411c9702cac7f1d6d7e547bd2efd6bf88bc10093e286d6940f7dfb722"
+    },
+    {
+      "index": 1,
+      "timestamp": "2025-04-24 10:01:10",
+      "data": {
+        "type": "content_registration",
+        "content_hash": "be839061e4b0c1f987ef8792312e62017af45b83dcdebe9f7d9d4d8f37efead8",
+        "timestamp": "2025-04-24 10:01:10",
+        "user_id": "202400130071",
+        "metadata": {
+          "title": "测试文档1",
+          "description": "第一个测试文档的描述",
+          "registration_time": "2025-04-24 10:01:10",
+          "user_id": "202400130071"
+        }
+      },
+      "previous_hash": "6511749411c9702cac7f1d6d7e547bd2efd6bf88bc10093e286d6940f7dfb722",
+      "nonce": 13,
+      "hash": "00c708e7d0c736aac1aa0a5c75bdfeed084e0032007f114e2be3c0fddf136e59"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-04-24 10:01:10",
+    "user_id": "202400130071",
+    "difficulty": 2
+  }
+}
